@@ -1,0 +1,16 @@
+# Flutter/Dart/Pub specific
+.dart_tool/
+.packages
+pubspec.lock
+
+# Build outputs
+build/
+.ios/
+.android/
+linux/
+macos/
+windows/
+web/
+
+# VS Code settings
+.vscode/
